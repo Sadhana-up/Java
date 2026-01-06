@@ -1,0 +1,4 @@
+# Any class that u use in java belongs to a package 
+but system kolagi or string ko lagi kei import nei garenam 
+java.lang.System 
+java.lang* (one folder ma multiple files cha vane simply put a star) chei by default import garcha java le 
