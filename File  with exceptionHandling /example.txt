@@ -1,0 +1,3 @@
+Hello i am sadhana , and i wrote this before filewriter usage
+So use file reader and writer for character streaming and use byte streaming for vid , audios , pics etc 
+and for a chunk of data you better use bufferedreader & writer 
