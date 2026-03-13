@@ -1,0 +1,11 @@
+public class Inner extends Employee{
+    public static void main(String[] args) {
+        Inner i = new Inner();
+        i.name = "hello"
+        iage 
+        
+    }
+
+
+    
+}
